@@ -11,6 +11,13 @@
       "belongsTo": "Post"
     }
   },
-  "Contact":{[]
+  "Contact":{[
+             {
+             "id":1,
+               "cmpTitle":"Mahindra",
+               "companyName":null
+             
+             }
+             ]
   }
 }
